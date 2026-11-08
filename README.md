@@ -23,3 +23,25 @@ Read the [official SolidProof audit and findings](https://app.solidproof.io/proj
 ## Official website
 
 https://x-pay.llc/
+
+## XPay platform and developer links
+
+- [XPay facilitator](https://facilitator-xpay.llc/)
+- [Facilitator documentation](https://facilitator-xpay.llc/docs)
+- [Base supported payment capabilities](https://facilitator-xpay.llc/supported)
+- [BNB supported payment capabilities](https://facilitator-xpay.llc/bsc/supported)
+- [Merchant dashboard](https://www.app-xpay.com/dashboard)
+- [Public API catalogue](https://www.api-xpay.com/)
+- [OpenAPI specification](https://www.api-xpay.com/openapi.json)
+- [XPay GitHub](https://github.com/xpayllc)
+- [Merchant SDK](https://github.com/xpayllc/x-pay-sdk)
+
+The XPAY token deployment documented here is on Base. The facilitator's Base and BNB payment services are separate from the token contract and its audit scope.
+
+## Community and contact
+
+- [X / Twitter](https://x.com/XPay_llc)
+- [Telegram community](https://t.me/xpay_llc)
+- [Telegram announcements](https://t.me/xpaysllc)
+- [LinkedIn](https://www.linkedin.com/company/xpaytechnologies/)
+- [Support email](mailto:support@x-pay.llc)
