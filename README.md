@@ -40,7 +40,8 @@ The XPAY token deployment documented here is on Base. The facilitator's Base and
 
 ## Community and contact
 
-- [X / Twitter](https://x.com/XPhttps://x.com/xpayllcmunity](https://t.me/xpay_llc)
+- [X / Twitter](https://x.com/xpayllc)
+- [Telegram community](https://t.me/xpay_llc)
 - [Telegram announcements](https://t.me/xpaysllc)
 - [LinkedIn](https://www.linkedin.com/company/xpaytechnologies/)
 - [Support email](mailto:support@x-pay.llc)
